@@ -6,6 +6,9 @@
 ## cricketers_analysis_parser
    parsing data of all players to generate data in csv files
 
+## Rating Points
+   For BATSMEN - More rating points better is the batsman
+   For BOWLERS - less rating points better is the bowler
 
 
 
