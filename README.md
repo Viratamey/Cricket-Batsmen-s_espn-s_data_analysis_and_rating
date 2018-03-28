@@ -1,5 +1,12 @@
 # Cricketers-analysis-and-ratings
 
+## cricketers_analysis
+   scrapping data from espncricinfo website
+
+## cricketers_analysis_parser
+   parsing data of all players to generate data in csv files
+
+
 
 
 ![1](https://user-images.githubusercontent.com/30778983/38044636-0d9cc9e2-32d8-11e8-9d6c-47f68baa779a.png)
